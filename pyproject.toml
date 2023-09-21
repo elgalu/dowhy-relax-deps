@@ -52,7 +52,7 @@ files = ["dowhy/__init__.py"]
 #
 [tool.poetry.dependencies]
 python = ">=3.8,<3.12"
-cython = "^0.29.32"
+cython = ">=0.29.32"
 scipy = ">=1.4.1"
 statsmodels = ">=0.13.5"
 numpy = ">=1.20"
